@@ -1,4 +1,4 @@
-const API_BASE_URL="http://appmgmt.cfapps.io/api";
+const API_BASE_URL="https://appmgmt.cfapps.io/api";
 
 const request = (options) => {
     const headers = new Headers({
